@@ -1,0 +1,13 @@
+{
+    "name": "root/travel",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Larissa Zamin larizmn",
+            "email": "larizmn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
